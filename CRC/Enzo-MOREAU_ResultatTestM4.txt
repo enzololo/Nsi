@@ -1,0 +1,1 @@
+ERREUR : message trop court pour calculer le CRC

@@ -1,0 +1,13 @@
+Erreur détectée
+M (message) en binaire             : 0b10000001010110011011000100001000111000111
+M (message) en hexadécimal         : 0x102b36211c7
+G (polynôme) en binaire            : 0b1100000001111
+G (polynôme) en hexadécimal        : 0x180f
+Mcrc (M avec zéros) en binaire     : 0b10000001010110011011000100001000111000111000000000000
+Mcrc (M avec zéros) en hexadécimal : 0x102b36211c7000
+Reste CRC en binaire               : 0b1001011101100
+Reste CRC en hexadécimal           : 0x12ec
+M’ (message émis) en binaire       : 0b10000001010110011011000100001000111000111001011101100
+M’ (message émis) en hexadécimal   : 0x102b36211c72ec
+R’ (vérification) en binaire       : 0b1000000000000
+R’ (vérification) en hexadécimal   : 0x1000

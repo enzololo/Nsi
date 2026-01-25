@@ -1,0 +1,13 @@
+Transmission correcte
+M (message) en binaire             : 0b1011000100101010
+M (message) en hexadécimal         : 0xb12a
+G (polynôme) en binaire            : 0b1100000001111
+G (polynôme) en hexadécimal        : 0x180f
+Mcrc (M avec zéros) en binaire     : 0b1011000100101010000000000000
+Mcrc (M avec zéros) en hexadécimal : 0xb12a000
+Reste CRC en binaire               : 0b111101101
+Reste CRC en hexadécimal           : 0x1ed
+M’ (message émis) en binaire       : 0b1011000100101010000111101101
+M’ (message émis) en hexadécimal   : 0xb12a1ed
+R’ (vérification) en binaire       : 0b0
+R’ (vérification) en hexadécimal   : 0x0
